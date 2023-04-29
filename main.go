@@ -1,9 +1,9 @@
 package main
 
 import (
-	"lemonade/handlers"
-	"lemonade/repository/user"
-	"lemonade/repository/transaction"
+	"github.com/megamsquare/lemonade/handlers"
+	"github.com/megamsquare/lemonade/repository/user"
+	"github.com/megamsquare/lemonade/repository/transaction"
 	"log"
 	"net/http"
 

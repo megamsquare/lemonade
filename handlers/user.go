@@ -2,7 +2,7 @@ package handlers
 
 import (
 	"encoding/json"
-	"lemonade/repository/user"
+	"github.com/megamsquare/lemonade/repository/user"
 	"log"
 	"net/http"
 

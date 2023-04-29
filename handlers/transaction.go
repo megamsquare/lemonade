@@ -3,8 +3,8 @@ package handlers
 import (
 	"context"
 	"encoding/json"
-	"lemonade/repository/transaction"
-	"lemonade/repository/user"
+	"github.com/megamsquare/lemonade/repository/transaction"
+	"github.com/megamsquare/lemonade/repository/user"
 	"log"
 	"net/http"
 	"time"

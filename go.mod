@@ -1,4 +1,4 @@
-module lemonade
+module github.com/megamsquare/lemonade
 
 go 1.19
 
